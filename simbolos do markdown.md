@@ -1,18 +1,12 @@
-[11:43] PATRICK MATIAS DA SILVA
-
 #Título principal
-
 
 ##Título secundário
 
-
 **Texto em negrito**
 
+_Texto em itálico_
 
-*Texto em itálico*
-
-
-***Texto em negrito e itálico***
+**_Texto em negrito e itálico_**
 
 1. Item da lista 1
 
@@ -20,18 +14,15 @@
 
 3. Item da lista 3
 
+4. Item numerado 1
 
-1. Item numerado 1
+5. Item numerado 2
 
-2. Item numerado 2
+6. Item numerado 3
 
-3. Item numerado 3
+> Bloco de citação
 
-
->Bloco de citação
-
-
-``Código em linha``
+`Código em linha`
 
 ```
 Bloco de código
@@ -41,9 +32,8 @@ linha 1
 linha 2
 
 linha 3
-````
+```
 
 [Link para um site]()
-
 
 ![Imagem]()
