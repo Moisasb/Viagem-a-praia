@@ -26,15 +26,3 @@ A viagem à praia é uma experiência enriquecedora, repleta de atividades emoci
 Agora você pode ver como é possível usar diferentes elementos de formatação do Markdown para criar uma redação com destaque visual e clareza. Lembre-se de que o Markdown é uma linguagem de formatação simples e versátil, amplamente utilizada para escrever documentos, artigos e até mesmo páginas da web.
 
 <body> 
-
-
-<style>
-    (
-        font-family: <sans-serif></sans-serif>
-
-    )
-    body {
-        width: 500 pixels 
-    }
-<style>
-<body>
